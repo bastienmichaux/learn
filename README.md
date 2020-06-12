@@ -6,6 +6,7 @@
 
 ## Java
 
+1. [Intro](java/intro.md)
 1. [Variables](java/variables.md)
 1. [Flow](java/flow.md)
 1. [Arrays](java/arrays.md)
