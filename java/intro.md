@@ -41,3 +41,23 @@
 1. Windows: add to path `jdk/bin;` where jdk is the correct path
 1. Linux: add to `~/.bashrc` or `~/bash_profile` the following: `export PATH=jdk/bin:$PATH`, where jdk is the correct path
 1. test installation in console with `javac -version`
+
+## Characteristics
+
+- statically typed
+- multithreaded
+- bytecode has extensive static checking
+- class-based objects
+- namespaces
+- object encapsulation
+- no preprocessor ala C
+- no pointers
+- automatic memory mgmt via garbage collection
+- no structs: no low-level memory layout
+- runtime can extensively instrumented (?)
+- class files are portable as long as the running system has a JVM
+- no operator overloading
+- is always pass-by-value (but a value can be an object reference)
+- no support for full multiple inheritance
+- dispatch is virtual by default (? $TODO)
+- generics are less powerful (but also less dangerous) than C++ templates
