@@ -2,15 +2,15 @@
 
 ## Learning
 
-1. [Learning](learn/learn.md)
+1. [Learning](learn.md)
 
 ## CS
 
-1. [CS](cs/cs.md)
+1. [CS](cs.md)
 
 ## Html
 
-1. [Html](html/html.md)
+1. [Html](html.md)
 
 ## Linux
 
