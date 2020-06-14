@@ -4,8 +4,8 @@
 
 1. a successfully compiled C file creates an **object file** (`.obj`)
 1. object files are linked by the linker,
-1. if errors after the linking phase, an executable file is created
-1. the executable can emit runtime errors
+1. if no errors after the linking phase, an executable file is created
+1. the executable can still emit runtime errors
 
 ## First program
 

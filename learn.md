@@ -27,3 +27,26 @@ It's easier to learn when:
 - you feel confident about it (manage your emotions)
 - you can share/teach it (join/create a community)
 - you agree with the teacher/material (use critical thinking)
+
+## Organization (stub)
+
+organize your computer files:
+- choose main folders & a file naming convention, stick to it
+- example: project/topic/category/date
+
+clear the clutter (less stress):
+- dedicate time to organizing
+- delete what you don't use/need
+- think about how you want to search
+
+## Summarize (stub)
+
+avoid descriptions:
+
+```
+the process consists in different phases: a, b, c
+
+(rewrite)
+
+phases: a, b, c
+```

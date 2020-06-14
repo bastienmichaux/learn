@@ -1,8 +1,8 @@
 # Learn
 
-## Learning
+## Learn
 
-1. [Learning](learn.md)
+1. [Learn](learn.md)
 
 ## Computers
 
@@ -28,7 +28,9 @@
 1. [Variables](java/variables.md)
 1. [Strings](java/strings.md)
 1. [Flow](java/flow.md)
+1. [Input](java/input.md)
 1. [Arrays](java/arrays.md)
 1. [Import](java/import.md)
+    1. [Static import](java/import-static.md)
 1. [Package](java/package.md)
 1. [Security](java/security.md)

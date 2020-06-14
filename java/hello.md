@@ -16,13 +16,13 @@ public class Hello {
 }
 ```
 
-- `class` keyword start the class definition block.
+- `class` keyword starts the class definition block.
 - all applications must contain a `main` method
 - conventionally, `public` comes before `static`
 
 ## Program lifecycle
 
-Compile it, then run it:
+`javac` compiles, `java` runs:
 
 ```
 javac Hello.java
