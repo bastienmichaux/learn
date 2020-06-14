@@ -14,6 +14,8 @@
 
 ## Linux
 
+1. [Basic commands](linux.md)
+
 ## Java
 
 1. [Intro](java/intro.md)
