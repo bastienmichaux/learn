@@ -29,4 +29,6 @@
 1. [Strings](java/strings.md)
 1. [Flow](java/flow.md)
 1. [Arrays](java/arrays.md)
+1. [Import](java/import.md)
+1. [Package](java/package.md)
 1. [Security](java/security.md)
