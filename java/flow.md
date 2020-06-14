@@ -2,6 +2,15 @@
 
 ## Program flow
 
+### Ternary operator
+
+Similar to C ternary operator.
+
+```java
+int age = 17;
+bool isMinor = (age >= 18) ? true : false;
+```
+
 ### for-each loop
 
 Also called "enhanced for".

@@ -10,11 +10,15 @@ The name of the file where this code is written must be named `Hello.java`. Each
 /* multiple line comment */
 
 public class Hello {
-  public static void main() {
+  public static void main(String[] args) {
     System.out.println("Hello world");
   }
 }
 ```
+
+- `class` keyword start the class definition block.
+- all applications must contain a `main` method
+- conventionally, `public` comes before `static`
 
 ## Program lifecycle
 

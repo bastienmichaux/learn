@@ -4,6 +4,11 @@
 
 1. [Learning](learn.md)
 
+## Computers
+
+1. [Intro](computers/intro.md)
+1. [Signals](computers/signals.md)
+
 ## CS
 
 1. [CS](cs.md)
@@ -19,7 +24,7 @@
 ## Java
 
 1. [Intro](java/intro.md)
-1. [First progra](java/hello.md)
+1. [First program](java/hello.md)
 1. [Variables](java/variables.md)
 1. [Strings](java/strings.md)
 1. [Flow](java/flow.md)

@@ -49,3 +49,12 @@ int main(void){
   return 0;
 }
 ```
+
+## Flow
+
+### Ternary operator
+
+```c
+int age = 17;
+bool isMinor = (age >= 18) ? true : false;
+```
