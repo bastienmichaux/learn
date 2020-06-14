@@ -72,3 +72,11 @@ int[][] marks;
 // initialization
 marks = new int[NUMBER_OF_COURSES][NUMBER_OF_STUDENTS];
 ```
+
+### Common array methods
+
+```java
+char myArray[];
+myArray = new char[5];
+myArray.length; // 5
+```

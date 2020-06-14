@@ -13,12 +13,12 @@ Learn so you can use your knowledge for new situations.
 
 ## Guidelines
 
-- be conscious of:
-    - your learning habits (to change/improve them)
-    - your state of mind (to manage your emotions)
-    - your work environment
-    - your time management habits
-    - your wins and losses
+Be conscious of:
+- your learning habits (to change/improve them)
+- your state of mind (to manage your emotions)
+- your work environment
+- your time management habits
+- your wins and losses
 
 ## Helpers & obstacles
 
