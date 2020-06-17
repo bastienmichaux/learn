@@ -2,6 +2,18 @@
 
 ## Variables
 
+### Variable types
+
+- **Instance variables** (non-static fields): values are unique to each instance of a class.
+- **Class variables** (static fields): there is exactly one copy of these variables for each instance of a class.
+- **Local variables**: how methods store temporary values, are only visible to the methods in which the're declared, they're not accessible from the rest of the class.
+- **Parameters**: are always variables, not fields.
+
+### Variable naming
+
+- 1st character should be a letter, not `$` or `_`
+- must not be a keyword or reserved word
+
 ### Data types (primitive types)
 
 ```java
@@ -39,7 +51,7 @@ class Book {
 
 ### Static class members
 
-A static property cannot be invoked with `this`, because `this` is a non-static variable and cannot be refrenced from a static context.
+A static property cannot be invoked with `this`, because `this` is a non-static variable and cannot be referenced from a static context.
 
 ```java
 public class MyTest {

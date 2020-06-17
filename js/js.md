@@ -1,5 +1,9 @@
 # JavaScript
 
+## Types
+
+- all numbers are floating-point values
+
 ## Flow
 
 ### Traditional control flow

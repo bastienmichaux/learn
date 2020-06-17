@@ -1,5 +1,7 @@
 # Learn
 
+This repository is first a personal memo, then an attempt at explaining to myself complex stuff from first principles. The goal is to be able to quickly grasp any subject provided that previous items in a learning path are fresh in memory. Let's make mistakes.
+
 ## Learn
 
 1. [Learn](learn/learn.md)
@@ -37,3 +39,12 @@
     1. [Static import](java/import-static.md)
 1. [Package](java/package.md)
 1. [Security](java/security.md)
+
+## TypeScript
+
+1. [Basic types](ts/basic-types.md)
+1. [Type assertions](ts/type-assertions.md)
+1. [Arrays](ts/arrays.md)
+1. [Tuples](ts/tuples.md)
+1. [Enum](ts/enum.md)
+1. [Partial types](ts/partial-types.md)

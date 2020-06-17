@@ -2,10 +2,6 @@
 
 ## First program
 
-A `.java` file that contains a `public` class `Foo` must be named `Foo.java`, otherwise the compiler emits an error at compile-time.
-
-Classes that aren't public won't cause that compilation error if their source file isn't named according to the class identifier.
-
 The following sample must be written to a `Hello.java` file:
 
 ```java
@@ -26,7 +22,7 @@ public class Hello {
 - `args` parameter = mechanism through which runtime system passes info to the app, each string in the array is a command-line argument
 - conventionally, `public` comes before `static`
 
-## Program lifecycle
+### Program lifecycle
 
 - `javac` compiles
 - `java` runs:
@@ -43,3 +39,9 @@ java Hello
 - **runtime** errors are produced here (if any)
 - JVM runs Java bytecode, turns bytecode into platform-specific machine code
 - JVM is basically an interpreter boosted by a  Just-In-Time (JIT) compiler
+
+### Mandatory file naming
+
+A `.java` file that contains a `public` class `Foo` must be named `Foo.java`, otherwise the compiler emits an error at compile-time.
+
+Classes that aren't public won't cause that compilation error if their source file isn't named according to the class identifier.
