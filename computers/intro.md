@@ -182,3 +182,17 @@ Hyperlinks connect web pages. Clicking an hyperlink asks the operating system to
 The Web page to get is specified with a uniform resource locator URL. A URL specifies the exact computer (among all the Internet computers in the world) and the exact Web page on that computer.
 
 To see some examples of URLs, keep watching the box at the top of your browser labeled "Address".
+
+## More
+
+### BIOS
+
+Software code built into the computer that handle sending data from one part of the computer to another.
+
+### Boot (boot-up)
+
+Process happening when a computer is turned on. Checks all the components function properly and that the operating system is loaded. Term comes from the expression "lifting yourself by your bootstraps".
+
+### Circuit board
+
+A board with metallic wires printed into it that connect components. Eliminates the need for separate wiring of the componants. Its creation can be automated. It also reduces the physical space needed.

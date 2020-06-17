@@ -13,6 +13,14 @@ whoami
 cd path/to/directory
 ```
 
+## Find
+
+Find file by name
+
+```bash
+find . -name "foo*"
+```
+
 ## List files
 
 ```bash
