@@ -1,6 +1,6 @@
 # Learn
 
-This repository is first a personal memo, then an attempt at explaining to myself complex stuff from first principles. The goal is to be able to quickly grasp any subject provided that previous items in a learning path are fresh in memory. Let's make mistakes.
+Personal memo + attempt at reducing complexity (Feynman technique etc).
 
 ## Learn
 
@@ -50,6 +50,7 @@ This repository is first a personal memo, then an attempt at explaining to mysel
 1. [Interfaces](ts/interfaces.md)
   1. [Function interface](ts/function-interface.md)
   1. [Indexable interface](ts/indexable-interface.md)
+  1. [Class interface](ts/class-interface.md)
 1. [Generics](ts/generics.md)
 1. [Partial types](ts/partial-types.md)
 1. [Compiler](ts/compiler.md)

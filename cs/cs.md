@@ -13,3 +13,7 @@ Static checking: anything done to reject a program after is successfully parses,
 Dynamically-typed language do almost no static checking.
 
 Static checking is usually done via a type system. Each variable, expression, has a type. Purpose: avoid misuse of primitives, enforce abstraction, avoid dynamic (run-time) checking.
+
+## OOP
+
+- a subclass (or derived class) is a class that extends a base class (or superclass)

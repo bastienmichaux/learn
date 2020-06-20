@@ -105,3 +105,5 @@ square.color = "blue";
 square.sideLength = 10;
 square.penWidth = 5.0;
 ```
+
+$TODO: https://www.staging-typescript.org/docs/handbook/interfaces.html#hybrid-types

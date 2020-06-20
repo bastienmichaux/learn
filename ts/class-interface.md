@@ -2,6 +2,8 @@
 
 ## Class interface
 
+Can't be used for checking private members.
+
 ```ts
 interface ClockInterface {
   currentTime: Date;
@@ -16,3 +18,7 @@ class Clock implements ClockInterface {
   constructor(h: number, m: number) {}
 }
 ```
+
+$TODO: https://www.staging-typescript.org/docs/handbook/interfaces.html#difference-between-the-static-and-instance-sides-of-classes
+
+$TODO: https://www.staging-typescript.org/docs/handbook/interfaces.html#interfaces-extending-classes
